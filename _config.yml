@@ -1,0 +1,28 @@
+name: Sebastián D
+favicon: null
+layout_spectrum: 0.5192060691770166
+typography_spectrum: 0.4240383501164615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3808117907028645
+  lightness: 0.44629188696853817
+  saturation: 0.14621918834745884
+  rhythmicContrast: 0.8146023682784289
+purpose: []
